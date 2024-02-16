@@ -16,4 +16,4 @@ This research project was carried out at [University College Cork (UCC)](https:/
 
 ## Acknowledgements
 
-The H-Wind project was supported by a research grant from [Science Foundation Ireland (SFI)](http://www.sfi.ie/) under Grant No. 12/RC/2302 – P2 and by the industry consortium members: [DP Energy](https://dpenergy.com/), [ESB](https://esb.ie/), [Equinor](https://www.equinor.com/), and [Gas Networks Ireland](https://www.gasnetworks.ie/).
+The H-Wind project was supported by a research grant from [Science Foundation Ireland (SFI)](https://www.sfi.ie/) under Grant No. 12/RC/2302 – P2 and by the industry consortium members: [DP Energy](https://dpenergy.com/), [ESB](https://esb.ie/), [Equinor](https://www.equinor.com/), and [Gas Networks Ireland](https://www.gasnetworks.ie/).
