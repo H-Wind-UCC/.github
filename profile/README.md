@@ -4,7 +4,7 @@ Tools developed as part of the [H-Wind](https://www.marei.ie/project/h-wind/) an
 
 ## H-Wind: Hydrogen from offshore wind
 
-![H-Wind project logos](/images/logos.png)
+![H-Wind project logos](/images/logos-hwind.png)
 
 H-Wind is a [MaREI Centre](https://www.marei.ie/) industry-led collaborative research project on the production of green hydrogen from offshore wind farms.
 Thanks to Ireland having one of the world's best offshore wind resources, there is an extensive opportunity for green hydrogen to be generated through electrolysis from offshore wind farms in Ireland.
