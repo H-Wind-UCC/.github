@@ -1,4 +1,6 @@
-# H-Wind
+# Wind to Hydrogen Toolkit
+
+## H-Wind
 
 ![H-Wind project logos](/images/logos.png)
 
@@ -16,6 +18,6 @@ All of these factors will contribute to significantly replacing Ireland's reliab
 
 This research project was carried out at [University College Cork (UCC)](https://www.ucc.ie/) between 2021 and 2024.
 
-## Acknowledgements
+### Acknowledgements
 
 The H-Wind project was supported by a research grant from [Science Foundation Ireland (SFI)](https://www.sfi.ie/) under Grant No. 12/RC/2302 – P2 and by the industry consortium members: [DP Energy](https://dpenergy.com/), [Equinor](https://www.equinor.com/), [ESB](https://esb.ie/), and [Gas Networks Ireland](https://www.gasnetworks.ie/).
