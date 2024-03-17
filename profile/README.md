@@ -24,6 +24,8 @@ The H-Wind project was supported by a research grant from [Science Foundation Ir
 
 ## HyFloat1: Concept development of floating offshore wind foundations coupled with hydrogen storage
 
+![HyFloat1 project logos](/images/logos-hyfloat1.png)
+
 Hydrogen produced from floating offshore wind energy will require innovative storage systems.
 The HyFloat1 project aims at developing new concepts for floating offshore wind foundations coupled with hydrogen storage.
 Several existing floating offshore wind foundations will be numerically assessed and modified for storing hydrogen.
