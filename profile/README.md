@@ -4,7 +4,7 @@ Tools developed as part of the [H-Wind](https://www.marei.ie/project/h-wind/) an
 
 ## H-Wind: Hydrogen from offshore wind
 
-![H-Wind project logos](/images/logos-hwind.png)
+![H-Wind project logos](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hwind.png)
 
 H-Wind is a [MaREI Centre](https://www.marei.ie/) industry-led collaborative research project on the production of green hydrogen from offshore wind farms.
 Thanks to Ireland having one of the world's best offshore wind resources, there is an extensive opportunity for green hydrogen to be generated through electrolysis from offshore wind farms in Ireland.
@@ -24,7 +24,7 @@ The H-Wind project was supported by a research grant from [Science Foundation Ir
 
 ## HyFloat1: Concept development of floating offshore wind foundations coupled with hydrogen storage
 
-![HyFloat1 project logos](/images/logos-hyfloat1.png)
+![HyFloat1 project logos](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hyfloat1.png)
 
 Hydrogen produced from floating offshore wind energy will require innovative storage systems.
 The HyFloat1 project aims at developing new concepts for floating offshore wind foundations coupled with hydrogen storage.
