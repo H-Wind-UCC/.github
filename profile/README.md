@@ -1,4 +1,4 @@
-# Wind to Hydrogen Toolkit
+# Wind-to-Hydrogen Toolkit
 
 Tools developed as part of the [H-Wind](https://www.marei.ie/project/h-wind/) and [HyFloat1](https://www.seai.ie/data-and-insights/seai-research/research-database/research-projects/details/hyfloat1:-concept-development-of-floating-offshore-wind-foundations-coupled-with-hydrogen-storage) projects at [University College Cork (UCC)](https://www.ucc.ie/).
 
