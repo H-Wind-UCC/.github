@@ -18,8 +18,6 @@ This three-year, multi-disciplinary project focusses on:
 
 All of these factors will contribute to significantly replacing Ireland's reliability on fossil fuels which will effectively reduce greenhouse gas emissions, along with securing the national energy supply and enabling the exploration of new energy export markets.
 
-This research project was carried out at UCC between 2021 and 2024.
-
 The H-Wind project was supported by a research grant from [Science Foundation Ireland (SFI)](https://www.sfi.ie/) under Grant No. 12/RC/2302 – P2 and by the industry consortium members: [DP Energy](https://dpenergy.com/), [Equinor](https://www.equinor.com/), [ESB](https://esb.ie/), and [Gas Networks Ireland](https://www.gasnetworks.ie/).
 
 ## HyFloat1: Concept development of floating offshore wind foundations coupled with hydrogen storage
