@@ -14,4 +14,5 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           gist_id: b949249c67899cd4cfa7fd61ad575bc4
-          file_path: landing_page.md
+          file_path: profile/README.md
+          gist_file_name: landing_page.md
