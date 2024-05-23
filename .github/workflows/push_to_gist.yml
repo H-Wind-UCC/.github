@@ -1,0 +1,17 @@
+name: Deploy README to Gist
+on:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - "profile/README.md"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: exuanbo/actions-deploy-gist@v1.1.4
+        with:
+          token: ${{ secrets.TOKEN }}
+          gist_id: b949249c67899cd4cfa7fd61ad575bc4
+          file_path: landing_page.md
