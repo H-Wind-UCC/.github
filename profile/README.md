@@ -21,12 +21,8 @@ As work is peer reviewed, we will release these tools for public use as a durabl
 
 The H-Wind project was supported by a research grant from [Science Foundation Ireland (SFI)](https://www.sfi.ie/) under Grant No. 12/RC/2302 – P2 and by the industry consortium members: [DP Energy](https://dpenergy.com/), [Equinor](https://www.equinor.com/), [ESB](https://esb.ie/), and [Gas Networks Ireland](https://www.gasnetworks.ie/).
 
-![H-Wind sponsors](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hwind-sponsors.png)
-
 ## HyFloat1: Concept development of floating offshore wind foundations coupled with hydrogen storage
 
 The [HyFloat1](https://www.seai.ie/data-and-insights/seai-research/research-database/research-projects/details/hyfloat1:-concept-development-of-floating-offshore-wind-foundations-coupled-with-hydrogen-storage) project aims at developing new concepts for floating offshore wind foundations coupled with hydrogen storage.
 
 The HyFloat1 project was supported by a research grant from the [Sustainable Energy Authority of Ireland (SEAI)](https://www.seai.ie).
-
-![HyFloat1 sponsor](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hyfloat1-sponsor.png)
