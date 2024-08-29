@@ -2,10 +2,10 @@
 
 [Wind-to-Hydrogen Toolkit](https://github.com/wind-to-hydrogen-toolkit) is a collection of computer programmes developed by researchers in the H-Wind and HyFloat1 projects at the [MaREI Centre](https://www.marei.ie/) in [University College Cork (UCC)](https://www.ucc.ie/en/).
 
-![H-Wind & HyFloat1 projects](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hwind-hyfloat1-ucc.png)
-
 We expect that these tools will be of benefit to project developers, students, and other researchers to work on green hydrogen systems.
 As work is peer reviewed, we will release these tools for public use as a durable output of the H-Wind and HyFloat1 projects.
+
+![H-Wind & HyFloat1 projects](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hwind-hyfloat1-ucc.png)
 
 ## Team
 
