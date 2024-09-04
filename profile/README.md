@@ -7,14 +7,6 @@ As work is peer reviewed, we will release these tools for public use as a durabl
 
 ![H-Wind & HyFloat1 projects](https://raw.githubusercontent.com/wind-to-hydrogen-toolkit/.github/main/images/logos-hwind-hyfloat1-ucc.png)
 
-## Team
-
-- [Paul Leahy](https://www.linkedin.com/in/paul-leahy-4a233472/)
-- [Dam Thanh Pham](https://www.linkedin.com/in/thanh-dam-pham-925a6ba5/)
-- [Quang Vu Dinh](https://www.linkedin.com/in/quang-vu-dinh-94097018b/)
-- Huong Le Thi
-- [Nithiya Streethran](https://www.linkedin.com/in/nmstreethran/)
-
 ## H-Wind: Hydrogen from offshore wind
 
 [H-Wind](https://www.marei.ie/project/h-wind/) is a MaREI Centre industry-led collaborative research project on the production of green hydrogen from offshore wind farms.
