@@ -7,4 +7,4 @@ As work is peer reviewed, we will release these tools for public use as a durabl
 
 See <https://wind-to-hydrogen-toolkit.github.io> for more details.
 
-![Logos for H-Wind, HyFloat1, and HyFloatComp projects and MaREI / UCC](/images/logos-projects-ucc.png "Logos for H-Wind, HyFloat1, and HyFloatComp projects and MaREI / UCC")
+![H-Wind, HyFloat1, HyFloatComp, and MaREI / UCC logos](/images/logos-projects-ucc.png "H-Wind, HyFloat1, HyFloatComp, and MaREI / UCC logos")
